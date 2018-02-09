@@ -1,6 +1,6 @@
 # Fibonacci Sequence (Java Version) 
 
-![Fibonacci Sequence](https://cdn-images-1.medium.com/max/1200/1*vBmJdFaxHr52-acYfUDDPg.jpeg)
+![Fibonacci Sequence](https://cdn-images-1.medium.com/max/1200/1*bfSmmMFLEaeDEHtQo0Ca_w.jpeg)
 
 ![How Fibonacci Sequence Works](https://img.haikudeck.com/mi/250B181F-DD32-4770-B449-50709C5C17AF.jpg)
 
